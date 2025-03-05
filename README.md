@@ -60,9 +60,10 @@ SUSTAIN is a powerful, straight-to-the-point professional AI assistant.
 - [x] Provide additional eco-feedback on overall token savings
 - [x] Enhance the GUI with more user-friendly features and customization options
 - [x] Convert to web app and deploy on Azure
+- [x] Implement math optimization pipeline
+- [x] Convert to Android, iOS apps
 - [ ] Implement caching for frequently requested queries to reduce API calls
-- [ ] Implement math optimization pipeline
-- [ ] Convert to Android, iOS apps
+
 
 ---
 
@@ -89,7 +90,11 @@ For questions or suggestions, feel free to reach out to us:
 
 [GitHub (Desktop)](https://github.com/djleamen/SUSTAIN)
 
-[GitHub (Web)](https://github.com/djleamen/SUSTAINWebApp)
+[GitHub (Web)](https://github.com/Tomasz0720/SUSTAINWebApp)
+
+[GitHub iOS](https://github.com/cafakleinn/SUSTAINForiOS)
+
+[GitHub Android](https://github.com/Tomasz0720/SUSTAINForAndroid)
 
 
 Let’s build a more sustainable AI future together!
